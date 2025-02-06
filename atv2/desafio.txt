@@ -1,0 +1,5 @@
+O objetivo é implementar uma plataforma de documentação chamada Wiki.js (https://js.wiki/)
+
+Links to an external site.. É sua responsabilidade criar o arquivo que irá conter todos os recursos para iniciar a stack.
+
+Navegue pela documentação oficial para obter as especificações necessárias para iniciar sua stack. Um container de banco de dados Postgres será necessário para a persistência de dados e também um container responsável pela aplicação Wiki.js será configurado.

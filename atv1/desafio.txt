@@ -1,0 +1,7 @@
+a. Utilize a imagem oficial do “nginx” como base. Procure pela imagem com menor tamanho, para agilizar o processo de build. 
+b. O diretório de trabalho dentro do container deverá ser o “/app”. 
+c. O arquivo “index.html” deverá ser copiado para o diretório de trabalho definido acima. 
+d. Utilize uma variável de ambiente chamada “APP_VERSION”, essa variável deverá ter o valor “1.0.0”. 
+e. Garanta que exista uma instrução para que o serviço do “nginx” execute assim que o container seja iniciado. 
+f. A porta de comunicação na rede, deverá ser a porta “TCP/80”. 
+g. Na imagem deverão ser instalados alguns aplicativos, como: “curl, htop e wget”. 
