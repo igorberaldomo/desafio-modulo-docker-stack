@@ -1,0 +1,2 @@
+para executar:
+    docker-compose -f 'atv2/docker-composer.yaml' up -d --build 
