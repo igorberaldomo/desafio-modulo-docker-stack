@@ -1,2 +1,6 @@
 para executar:
-    docker-compose -f 'atv2/docker-composer.yaml' up -d --build 
+    docker-compose -f 'atv2/docker-composer.yaml' up -d --build
+    
+    docker ps para achar os containers
+
+    va para http://localhost/ para acessar o wiki.js
